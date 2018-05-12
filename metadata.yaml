@@ -1,0 +1,33 @@
+_repo: I-m-a-Stranger-Here-Myself_26741
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reynolds, Mack
+    aliases:
+    - McCord, Guy
+    - Reynolds, Dallas McCord
+    birthdate: 1917
+    deathdate: 1983
+    gutenberg_agent_id: '25744'
+    url: http://www.gutenberg.org/2009/agents/25744
+    wikipedia: http://en.wikipedia.org/wiki/Mack_Reynolds
+description: One can't be too cautious about thepeople one meets in Tangier. They're
+  allweirdies of one kind or another. Me? Oh, I'm A Stranger Here Myself.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26741'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: I'm a Stranger Here Myself
+url: http://www.gutenberg.org/ebooks/26741
